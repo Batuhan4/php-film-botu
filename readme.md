@@ -17,3 +17,6 @@ text.php de ztn daha once aynı adda text varsa sil fonksiyonu (kolay)  pull req
  
  
 film descriptionda çeksin(aşama2.php)   ( zor değil uğraştırıcı lütfen yardım edin )
+
+
+iki phpyi sırayla ve cronjob benzeri bir sistemle çalıştırak ramı  az kullanan bir php dosyası yada iki phpyi birleştirme ( snrm birleştirmek daha kolay olacak gibi
